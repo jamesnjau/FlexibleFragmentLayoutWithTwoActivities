@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">FlexibleFragmentUI</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="titles">
+        <item>Activities</item>
+        <item>Services</item>
+        <item>Content Providers</item>
+        <item>Intents and intents filters</item>
+        <item>Processes and Threads</item>
+        <item>App Widgets</item>
+    </string-array>
+    <string-array name="description">
+        <item>An Activity is an application component that provides a screen with which users can interact in order to do something, such as dial the phone, take a photo, send an email, or view a map. </item>
+        <item>A Service is an application component that can perform long-running operations in the background and does not provide a user interface.</item>
+        <item>Content providers manage access to a structured set of data. They encapsulate the data, and provide mechanisms for defining data security.</item>
+        <item>An Intent is a messaging object you can use to request an action from another app component. </item>
+        <item>When an application component starts and the application does not have any other components running, the Android system starts a new Linux process for the application with a single thread of execution.</item>
+        <item>App Widgets are miniature application views that can be embedded in other applications (such as the Home screen) and receive periodic updates. </item>
+    </string-array>
+</resources>
